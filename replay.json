@@ -1,0 +1,34 @@
+{
+  "message": "操作成功",
+  "status": "200",
+  "result": [
+  {
+    "articleTitle":"20180830复盘简述",
+    "articleTime":"20180830 星期四",
+    "articleContent":"冰冻三尺，非一日之寒；长城万里，非一日之建",
+    "articleContentImg":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/articleBackground_01.png",
+    "articleUrl":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/_01.jpg"
+  },
+  {
+    "articleTitle":"20180830复盘简述",
+    "articleTime":"20180830 星期四",
+    "articleContent":"冰冻三尺，非一日之寒；长城万里，非一日之建",
+    "articleContentImg":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/articleBackground_01.png",
+    "articleUrl":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/_01.jpg"
+  },
+  {
+    "articleTitle":"20180830复盘简述",
+    "articleTime":"20180830 星期四",
+    "articleContent":"冰冻三尺，非一日之寒；长城万里，非一日之建",
+    "articleContentImg":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/articleBackground_01.png",
+    "articleUrl":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/_01.jpg"
+  },
+  {
+    "articleTitle":"20180830复盘简述",
+    "articleTime":"20180830 星期四",
+    "articleContent":"冰冻三尺，非一日之寒；长城万里，非一日之建",
+    "articleContentImg":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/articleBackground_01.png",
+    "articleUrl":"https://raw.githubusercontent.com/baoshuikeji/AppMaterial/master/_01.jpg"
+  }
+  ]
+}
